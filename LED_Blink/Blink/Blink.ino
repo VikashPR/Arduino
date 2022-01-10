@@ -1,6 +1,6 @@
 
   int pinNumber = 13;
-  int delayTime = 300;
+  int delayTime = 50;
 void setup() {
   pinMode(pinNumber, OUTPUT);
 }
